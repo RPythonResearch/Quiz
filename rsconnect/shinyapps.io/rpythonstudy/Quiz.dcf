@@ -1,0 +1,12 @@
+name: Quiz
+title: Quiz
+username: rpythonstudy
+account: rpythonstudy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12470632
+bundleId: 8996332
+url: https://rpythonstudy.shinyapps.io/Quiz/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
